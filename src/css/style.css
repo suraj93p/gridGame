@@ -1,0 +1,20 @@
+td {
+    height: 21px;
+    width: 21px;
+    border: 1px solid;
+    background-color: lightgray;
+}
+
+.bgColor{
+    background-color: green;
+}
+
+#gameOver{
+    display: none;
+}
+
+#startGame{
+    left: 150px;
+    position: absolute;
+    top: 7px;
+}
